@@ -1,2 +1,1 @@
-# Demographic-Data-Analyzer
- Demographic analysis of different countries
+This is a resolution for the Data Analysis With Python Curriculum, from freecodecamp.
